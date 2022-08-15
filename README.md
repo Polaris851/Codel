@@ -29,6 +29,6 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## Licença e Autora
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/Polaris851/cordel/blob/main/LICENSE) para mais detalhes.
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/Polaris851/Cordel/blob/main/LICENSE) para mais detalhes.
 
 Feito com :purple_heart: por [Letícia Polari](https://github.com/Polaris851).
