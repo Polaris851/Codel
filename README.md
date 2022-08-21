@@ -11,7 +11,7 @@
 
 ## Sobre
 
-Projeto desenvolvido para o aprendizado. 
+Projeto desenvolvido durante o curso de HTML5 e CSS3 do [Curso em Video](https://www.youtube.com/c/CursoemV%C3%ADdeo). Consiste num site em formato de um "cordel moderno", utilizando o efeito parallax do css.
 
 ##  Demonstração
 
