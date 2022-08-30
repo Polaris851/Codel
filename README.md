@@ -17,7 +17,7 @@ Projeto desenvolvido durante o curso de HTML5 e CSS3 do [Curso em Video](https:/
 
 <p align="center">
     <img alt="Demonstração" title="Demonstração" 
-    src="https://raw.githubusercontent.com/Polaris851/Cordel/main/cordel.webm" />
+    src="https://raw.githubusercontent.com/Polaris851/cordel/main/cordel.gif" />
 </p>
 
 ## Tecnologias utilizadas
